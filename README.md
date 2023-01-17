@@ -6,7 +6,5 @@ This App is build using Unity Game Engine
 version : unity 2021.3.16f1
 Assets files were not included in github due to some issues.
 
-![](image1.jpg)
-![](Image0.jpg) 
-
-![](image2.jpg)
+![](Image0.jpg) ![](Image1.jpg) 
+![](Image2.jpg)
